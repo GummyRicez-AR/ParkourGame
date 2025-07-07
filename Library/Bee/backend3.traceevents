@@ -1,0 +1,731 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1750783113015112, "dur":50663, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1750783113065784, "dur":278, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1750783113066143, "dur":414, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1750783113066626, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1750783113066737, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1750783113066797, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1750783113066857, "dur":164, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1750783113067025, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1750783113067112, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1750783113067336, "dur":134, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1750783113067517, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":0, "ts":1750783113067586, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1750783113067703, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1750783113067774, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":0, "ts":1750783113068313, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/StreamingAssets/aa/catalog.bin" }}
+,{ "pid":12345, "tid":0, "ts":1750783113068401, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/StreamingAssets/aa/catalog.hash" }}
+,{ "pid":12345, "tid":0, "ts":1750783113068455, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/StreamingAssets/aa/settings.json" }}
+,{ "pid":12345, "tid":0, "ts":1750783113068512, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/StreamingAssets/aa/AddressablesLink/link.xml" }}
+,{ "pid":12345, "tid":0, "ts":1750783113068657, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/StreamingAssets/aa/StandaloneWindows64/402d5deebaa2009721736be821ed6454.bundle" }}
+,{ "pid":12345, "tid":0, "ts":1750783113068715, "dur":118, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/StreamingAssets/aa/StandaloneWindows64/e9c080806ec07022293a82988d8ae542.bundle" }}
+,{ "pid":12345, "tid":0, "ts":1750783113068850, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113068922, "dur":119, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"UnityLinker C:/Users/shilp/Documents/Personal Projects/ParkourGame/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":0, "ts":1750783113069045, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/17932905110160049380.rsp" }}
+,{ "pid":12345, "tid":0, "ts":1750783113069374, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113069440, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113069573, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113069631, "dur":124, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113069773, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113069937, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113070011, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113070110, "dur":138, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113070252, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113070309, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113070405, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113070462, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113070558, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113070613, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113070670, "dur":106, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113070779, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113070848, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113070926, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113071001, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113071057, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113071138, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Addressables.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113071193, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113071274, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113071361, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113071476, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113071531, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113071625, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113071734, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113071811, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113071865, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Profiling.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113071973, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113072048, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113072177, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113072234, "dur":102, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113072427, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113072582, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113072643, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113072719, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.ResourceManager.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113072836, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113072972, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113073120, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113073208, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113073398, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113073485, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113073584, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113073683, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113073830, "dur":121, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113073955, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113074022, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113074225, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113074301, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113074370, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113074426, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113074513, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113074619, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113074677, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113074758, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113074929, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113075012, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113075106, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113075187, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113075261, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113075314, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113075417, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113075563, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113075666, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113075827, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113075998, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113076072, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113076168, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113076228, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113076281, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113076425, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113076481, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113076542, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113076602, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113076659, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113076885, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113077050, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113077381, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113077480, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113077544, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113077662, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1750783113078007, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1750783113078078, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1750783113078251, "dur":121, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1750783113078536, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1750783113078636, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1750783113078839, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1750783113078935, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":0, "ts":1750783113078993, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113079055, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1750783113066620, "dur":12488, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1750783113079109, "dur":11640044, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1750783124719155, "dur":130, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1750783124719286, "dur":92, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1750783124719484, "dur":75, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1750783124719714, "dur":80, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1750783124719818, "dur":4565, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1750783113067511, "dur":11676, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750783113079193, "dur":2025, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750783113081218, "dur":1362, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750783113082581, "dur":1311, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750783113083892, "dur":1233, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750783113085126, "dur":1458, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750783113086584, "dur":8724, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750783113095318, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1750783113095410, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750783113095512, "dur":1626, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1750783113097139, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750783113097200, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750783113097272, "dur":14664, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750783113112040, "dur":370056, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783113111936, "dur":370162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783113482151, "dur":19313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783113501546, "dur":128806, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783113501466, "dur":128888, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783113630364, "dur":132, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750783113630503, "dur":1640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783113632226, "dur":250849, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783113632147, "dur":250930, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783113883101, "dur":20500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783113903676, "dur":34799, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783113903603, "dur":34874, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783113938500, "dur":40584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783113979186, "dur":39121, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783113979087, "dur":39222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114018366, "dur":1756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114020230, "dur":107574, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114020126, "dur":107680, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114127836, "dur":1392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114129298, "dur":290821, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114129232, "dur":290889, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114420150, "dur":1983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114438531, "dur":245598, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114422137, "dur":261994, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114684142, "dur":223, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750783114684371, "dur":5598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114690056, "dur":81183, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114689974, "dur":81267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114773170, "dur":168, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750783114771270, "dur":2159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114773529, "dur":38203, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114773433, "dur":38301, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114811768, "dur":1770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114813622, "dur":105380, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114813542, "dur":105461, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114919021, "dur":179, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1750783114919205, "dur":2210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114921528, "dur":46514, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114921418, "dur":46625, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114968074, "dur":1544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114969699, "dur":86364, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783114969621, "dur":86444, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783115056088, "dur":42576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1750783115098667, "dur":9620442, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113067487, "dur":11688, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113079179, "dur":1463, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113080643, "dur":1667, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113082310, "dur":1348, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113083658, "dur":1407, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113085065, "dur":1450, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113086515, "dur":8836, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113095352, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1750783113095483, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113095598, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1750783113095700, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113095776, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1750783113095864, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113095930, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113096009, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113096138, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/StreamingAssets/aa/StandaloneWindows64/e9c080806ec07022293a82988d8ae542.bundle" }}
+,{ "pid":12345, "tid":2, "ts":1750783113096254, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113096330, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113096399, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113096465, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113096532, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113096595, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113096650, "dur":125, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1750783113096776, "dur":15159, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113112040, "dur":48722, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113111936, "dur":48828, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113160796, "dur":26714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113187729, "dur":81478, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113187514, "dur":81696, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113274377, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113269243, "dur":5215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113274581, "dur":126815, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113274462, "dur":126936, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113401437, "dur":1563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113403083, "dur":46461, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113403004, "dur":46542, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113449576, "dur":8787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113458438, "dur":30150, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113458367, "dur":30222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113488612, "dur":12805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113501501, "dur":40605, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113501421, "dur":40687, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113542137, "dur":1886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113544225, "dur":79640, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113544027, "dur":79840, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113623899, "dur":1526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113625502, "dur":182223, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113625430, "dur":182298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113807760, "dur":3581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113811478, "dur":51024, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Profiling.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113811345, "dur":51159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Profiling.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113862514, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113864321, "dur":351, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783113862582, "dur":2105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Profiling.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113864864, "dur":37929, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113864697, "dur":38098, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113902829, "dur":75600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113978498, "dur":37594, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783113978432, "dur":37663, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114016128, "dur":1501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114017702, "dur":39439, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114017632, "dur":39511, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114057171, "dur":38139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114095383, "dur":54133, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114095314, "dur":54203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114149540, "dur":9052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114158662, "dur":110645, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114158595, "dur":110714, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114269337, "dur":1633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114271072, "dur":134932, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114270974, "dur":135032, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114410492, "dur":407, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783114406034, "dur":4881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114411086, "dur":49125, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114410918, "dur":49296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114460245, "dur":1912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114462247, "dur":35570, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114462162, "dur":35657, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114497840, "dur":3314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114501265, "dur":60626, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114501157, "dur":60736, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114561922, "dur":10052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114572102, "dur":141618, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114572004, "dur":141718, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114713752, "dur":1623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114715478, "dur":84243, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114715379, "dur":84344, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114799752, "dur":1808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114801659, "dur":222464, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783114801564, "dur":222561, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783115025666, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1750783115024153, "dur":1607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1750783115025763, "dur":9693348, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783113067968, "dur":11285, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783113079254, "dur":1469, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783113080724, "dur":1432, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783113082156, "dur":1270, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783113083427, "dur":1290, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783113084718, "dur":1570, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783113086289, "dur":9056, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783113095379, "dur":286, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783113095674, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783113095817, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1750783113096035, "dur":210, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783113096252, "dur":264, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/StreamingAssets/aa/catalog.hash" }}
+,{ "pid":12345, "tid":3, "ts":1750783113096517, "dur":170, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783113096688, "dur":128, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/StreamingAssets/aa/catalog.hash" }}
+,{ "pid":12345, "tid":3, "ts":1750783113096816, "dur":15081, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783113112013, "dur":42134, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113111897, "dur":42253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113154469, "dur":3450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113157993, "dur":36691, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113157923, "dur":36763, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113194773, "dur":1309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113196153, "dur":137332, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113196085, "dur":137402, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113333514, "dur":2208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113335812, "dur":131288, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113335725, "dur":131377, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113467131, "dur":32726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113499958, "dur":35469, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113499863, "dur":35566, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113535457, "dur":1482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113537014, "dur":43923, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113536943, "dur":43996, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113580970, "dur":2738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113583935, "dur":51406, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113583712, "dur":51631, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113635378, "dur":4542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113640038, "dur":194543, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113639923, "dur":194660, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113834617, "dur":1729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113836427, "dur":56696, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113836351, "dur":56775, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113893154, "dur":84987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113978748, "dur":2410, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113978144, "dur":3016, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113982808, "dur":143, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783113981188, "dur":1781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113983072, "dur":48908, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783113982979, "dur":49003, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114033696, "dur":176, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783114032012, "dur":1974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114034073, "dur":2382, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114033990, "dur":2467, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114036487, "dur":6964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114043583, "dur":298919, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114043454, "dur":299050, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114342534, "dur":2619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114345256, "dur":34433, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114345157, "dur":34534, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114379741, "dur":211, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783114379957, "dur":1828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114381869, "dur":40705, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114381790, "dur":40786, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114422598, "dur":21366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114444036, "dur":43918, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114443969, "dur":43988, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114488017, "dur":1550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114489636, "dur":135602, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.ResourceManager.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114489572, "dur":135669, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.ResourceManager.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114625271, "dur":1694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.ResourceManager.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114627037, "dur":123561, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114626969, "dur":123630, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114750612, "dur":84, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783114752364, "dur":436, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783114750701, "dur":2498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114753302, "dur":66261, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114753203, "dur":66363, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114819595, "dur":1777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114821607, "dur":48765, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114821376, "dur":48998, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114870385, "dur":68, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783114870459, "dur":1907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114872439, "dur":171610, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783114872370, "dur":171681, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783115099039, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1750783115044113, "dur":55026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1750783115099141, "dur":9619975, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113067413, "dur":11731, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113079168, "dur":1694, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113080862, "dur":1569, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113082431, "dur":1311, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113083743, "dur":1367, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113085110, "dur":1562, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113086673, "dur":8679, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113095353, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1750783113095465, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113095537, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1750783113095615, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113095690, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1750783113095763, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113095829, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1750783113095913, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113095977, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame.exe" }}
+,{ "pid":12345, "tid":4, "ts":1750783113096042, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113096106, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113096172, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113096244, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/StreamingAssets/aa/settings.json" }}
+,{ "pid":12345, "tid":4, "ts":1750783113096309, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113096372, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113096437, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113096498, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113096566, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113096627, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113096686, "dur":118, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1750783113096804, "dur":15152, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113112045, "dur":213036, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113111957, "dur":213126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113325094, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113327123, "dur":86, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113325161, "dur":2067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113327261, "dur":6529, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113327235, "dur":6557, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113333812, "dur":1679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113335575, "dur":45815, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113335495, "dur":45898, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113381403, "dur":168, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113383269, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113381576, "dur":1772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113383468, "dur":137166, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113383351, "dur":137285, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113520666, "dur":1978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113522723, "dur":39579, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113522649, "dur":39655, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113562333, "dur":1435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113563845, "dur":55741, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113563772, "dur":55817, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113621311, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783113619652, "dur":1741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113621506, "dur":68424, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113621395, "dur":68538, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113689965, "dur":1595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113691639, "dur":37207, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113691562, "dur":37286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113728881, "dur":15079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113744036, "dur":94673, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113743963, "dur":94748, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113838743, "dur":1624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113840467, "dur":202506, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783113840371, "dur":202604, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114042989, "dur":87, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783114044879, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783114043092, "dur":1863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114044961, "dur":148520, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114044959, "dur":148524, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114193514, "dur":3552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114197140, "dur":51259, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114197069, "dur":51332, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114248412, "dur":66, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783114263472, "dur":82, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783114248484, "dur":15086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114263681, "dur":282919, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114263575, "dur":283027, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114546620, "dur":1659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114548367, "dur":40523, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114548282, "dur":40610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114588934, "dur":1586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114590637, "dur":45589, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114590524, "dur":45705, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114636239, "dur":73, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783114636318, "dur":1566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114637960, "dur":139500, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114637888, "dur":139573, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114777482, "dur":1591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114779150, "dur":95294, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114779076, "dur":95370, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114876178, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783114874475, "dur":1786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114876358, "dur":42901, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114876264, "dur":42996, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114923159, "dur":80, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783114919280, "dur":3976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114923572, "dur":2735, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114923260, "dur":3092, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114926365, "dur":163, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1750783114926534, "dur":5422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114931980, "dur":1455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114933441, "dur":76911, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783114933438, "dur":76915, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783115010391, "dur":1392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783115011850, "dur":1080, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783115011787, "dur":1145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783115012967, "dur":1390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":4, "ts":1750783115014361, "dur":9704766, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1750783113067263, "dur":11856, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1750783113082453, "dur":1551, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/il2cpp/build/deploy" }}
+,{ "pid":12345, "tid":5, "ts":1750783113084005, "dur":8974, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/il2cpp/libil2cpp" }}
+,{ "pid":12345, "tid":5, "ts":1750783113092979, "dur":117, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport" }}
+,{ "pid":12345, "tid":5, "ts":1750783113093096, "dur":1589, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono" }}
+,{ "pid":12345, "tid":5, "ts":1750783113094685, "dur":95, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources" }}
+,{ "pid":12345, "tid":5, "ts":1750783113094780, "dur":272, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/Tools/BuildPipeline" }}
+,{ "pid":12345, "tid":5, "ts":1750783113095053, "dur":176, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Library/PlayerDataCache/Win642/Data" }}
+,{ "pid":12345, "tid":5, "ts":1750783113079123, "dur":16184, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1750783113095318, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/17932905110160049380.rsp" }}
+,{ "pid":12345, "tid":5, "ts":1750783113095432, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1750783113095543, "dur":2133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/shilp/Documents/Personal Projects/ParkourGame/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":5, "ts":1750783113097677, "dur":4632, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1750783113112014, "dur":221693, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1750783113333711, "dur":238209, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1750783113572018, "dur":628438, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1750783114200564, "dur":73224, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1750783114273898, "dur":169247, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1750783114443271, "dur":307252, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1750783114750637, "dur":66063, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1750783114816821, "dur":112109, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1750783114929078, "dur":81271, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":5, "ts":1750783115010352, "dur":34772, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":5, "ts":1750783115045233, "dur":12805, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1750783115058127, "dur":237865, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\shilp\\Documents\\Personal Projects\\ParkourGame\\Library\\PackageCache\\com.unity.burst\\.Runtime\\bcl.exe" }}
+,{ "pid":12345, "tid":5, "ts":1750783113111896, "dur":2184097, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":5, "ts":1750783115318848, "dur":9376833, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":5, "ts":1750783124696582, "dur":20120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\AsyncPluginsFromLinker\\x86_64\\lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":5, "ts":1750783124696541, "dur":20163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":5, "ts":1750783124717424, "dur":1619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113067571, "dur":11627, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113079217, "dur":1429, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113080647, "dur":1428, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113082075, "dur":1291, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113083367, "dur":1374, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113084742, "dur":1560, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113086302, "dur":9053, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113095355, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1750783113095488, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113095575, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1750783113095659, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113095727, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1750783113095824, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113095898, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1750783113095971, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113096042, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1750783113096113, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113096224, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/StreamingAssets/aa/AddressablesLink/link.xml" }}
+,{ "pid":12345, "tid":6, "ts":1750783113096405, "dur":173, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113096586, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113096650, "dur":100, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/level1" }}
+,{ "pid":12345, "tid":6, "ts":1750783113096768, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113096862, "dur":15097, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113112078, "dur":49363, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113111960, "dur":49483, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113188942, "dur":232, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113161467, "dur":27724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113189353, "dur":40592, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113189194, "dur":40753, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113229975, "dur":1473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113231535, "dur":129744, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113231452, "dur":129829, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113363548, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113361311, "dur":2335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113363830, "dur":75583, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113363650, "dur":75765, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113439453, "dur":1505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113441047, "dur":42892, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113440962, "dur":42981, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113483994, "dur":16160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113500243, "dur":86393, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113500158, "dur":86480, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113586665, "dur":22305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113609046, "dur":149008, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113608975, "dur":149081, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113758101, "dur":1489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113759665, "dur":41086, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113759593, "dur":41160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113800765, "dur":151, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113802686, "dur":156, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783113800921, "dur":1939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113802962, "dur":125090, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113802864, "dur":125190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113928122, "dur":51677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113979909, "dur":38801, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783113979810, "dur":38902, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114018721, "dur":50, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1750783114018776, "dur":1465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114020310, "dur":81941, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114020243, "dur":82010, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114102303, "dur":1536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114103915, "dur":117626, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114103844, "dur":117699, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114221571, "dur":1870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114223528, "dur":69235, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114223445, "dur":69320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114292793, "dur":26523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114372343, "dur":100200, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114319320, "dur":153225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114472573, "dur":1904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114474551, "dur":171802, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Addressables.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114474481, "dur":171874, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Addressables.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114646393, "dur":2877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Addressables.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114649344, "dur":67031, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114649274, "dur":67103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114716404, "dur":6397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114722899, "dur":155883, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114722805, "dur":155980, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114878814, "dur":1542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114880380, "dur":1309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114881712, "dur":1844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114883578, "dur":2424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114886108, "dur":159099, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783114886006, "dur":159203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783115045231, "dur":53911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":6, "ts":1750783115099144, "dur":9619984, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113067747, "dur":11477, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113079228, "dur":1476, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113080704, "dur":1603, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113082307, "dur":1339, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113083646, "dur":1334, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113084980, "dur":1663, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113086643, "dur":8711, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113095355, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1750783113095483, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113095583, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1750783113095676, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113095752, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1750783113095846, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113095983, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1750783113096087, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113096154, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/StreamingAssets/aa/StandaloneWindows64/3364e5bfecfef9fe0c2bfcf3ad3a37b2.bundle" }}
+,{ "pid":12345, "tid":7, "ts":1750783113096229, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113096299, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/StreamingAssets/aa/catalog.bin" }}
+,{ "pid":12345, "tid":7, "ts":1750783113096367, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113096444, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113096528, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113096677, "dur":112, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1750783113096790, "dur":15168, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113112062, "dur":178119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113111959, "dur":178224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113294248, "dur":149, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783113290214, "dur":4207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113294543, "dur":248089, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113294424, "dur":248210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113542700, "dur":2193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113545088, "dur":59573, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.ScriptableBuildPipeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113545015, "dur":59648, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.ScriptableBuildPipeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113604692, "dur":6642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.ScriptableBuildPipeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113611585, "dur":79490, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113611339, "dur":79738, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113691100, "dur":5496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113697795, "dur":99433, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113696600, "dur":100630, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113797261, "dur":1616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113798973, "dur":48316, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113798881, "dur":48410, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113847321, "dur":1561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113848984, "dur":110663, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113848886, "dur":110763, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113959670, "dur":20593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113980330, "dur":115637, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783113980265, "dur":115704, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114097773, "dur":254, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783114096059, "dur":1984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114098225, "dur":161179, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114098046, "dur":161360, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114259435, "dur":8986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114268493, "dur":228864, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114268431, "dur":228929, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114497391, "dur":2818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114500281, "dur":46232, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114500213, "dur":46302, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114546544, "dur":1534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114548160, "dur":153536, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114548082, "dur":153617, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114701758, "dur":1558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114703391, "dur":40014, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114703319, "dur":40088, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114743437, "dur":2342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114745853, "dur":114480, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114745783, "dur":114552, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114860368, "dur":1690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114862139, "dur":65371, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114862063, "dur":65448, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114936357, "dur":191, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783114927580, "dur":9002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114936667, "dur":1521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114938304, "dur":119753, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783114938192, "dur":119866, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783115099078, "dur":113, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1750783115058092, "dur":41109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1750783115099202, "dur":9619915, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113067858, "dur":11382, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113079243, "dur":1434, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113080677, "dur":1417, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113082094, "dur":1208, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113083302, "dur":1152, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113084454, "dur":1279, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113085733, "dur":1126, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113086859, "dur":8488, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113095348, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1750783113095480, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113095552, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1750783113095634, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113095712, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1750783113095813, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113095906, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783113096076, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113096143, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/StreamingAssets/aa/StandaloneWindows64/402d5deebaa2009721736be821ed6454.bundle" }}
+,{ "pid":12345, "tid":8, "ts":1750783113096233, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113096322, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783113096488, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113096573, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113096631, "dur":88, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1750783113096722, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113096850, "dur":15107, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113112045, "dur":1213, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783113111957, "dur":1302, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783113114302, "dur":2861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783113117269, "dur":454660, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783113117167, "dur":454763, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783113571960, "dur":1669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783113573740, "dur":79191, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783113573633, "dur":79300, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783113652944, "dur":126, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113653077, "dur":1512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783113654666, "dur":226176, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783113654592, "dur":226252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783113882299, "dur":136, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783113880874, "dur":1580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783113882543, "dur":260843, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783113882457, "dur":260931, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114143417, "dur":14808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114158320, "dur":124087, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114158229, "dur":124180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114282439, "dur":32419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114314943, "dur":213161, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114314862, "dur":213244, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114530321, "dur":159, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783114528135, "dur":2361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114530655, "dur":165647, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114530499, "dur":165806, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114698197, "dur":115, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783114696337, "dur":1992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114698429, "dur":38525, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114698332, "dur":38624, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114737007, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783114737084, "dur":1790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114738952, "dur":38309, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114738879, "dur":38389, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114777280, "dur":133, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783114777420, "dur":1660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114779153, "dur":138679, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114779081, "dur":138753, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114917881, "dur":169, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1750783114918056, "dur":2856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114921015, "dur":47465, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114920916, "dur":47566, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114968505, "dur":1482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114970063, "dur":71796, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783114969990, "dur":71870, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783115041889, "dur":55943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/tmp/MetalGrounds_Build/ParkourGame_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1750783115097835, "dur":9621277, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1750783124749536, "dur":30181, "ph":"X", "name": "ProfilerWriteOutput" }
+,

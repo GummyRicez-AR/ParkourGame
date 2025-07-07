@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66cb1ace674b2874fae305cc5a8bdbfd, type: 3}
+  m_Name: Sprint Regear
+  m_EditorClassIdentifier: 
+  ID: upgr_sprintRegear
+  title: sprint regear
+  icon: {fileID: 21300000, guid: 5c68d6e0c986bdf4a9d50965ecf1b6b9, type: 3}
+  iconDecal: {fileID: 2100000, guid: ffaf8f4f6f0109649ae2720a3b925f18, type: 2}
+  statChanges:
+  - stat: 1
+    additiveChangeAmount: -1
+    multiplicativeChangeAmount: 0
+  - stat: 2
+    additiveChangeAmount: 4
+    multiplicativeChangeAmount: 0
+  baseCost: 125
+  description: marginally increases sprint speed, but decreases walk speed

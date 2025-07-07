@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd62332bfc6adba4fab44c608813eba4, type: 3}
+  m_Name: PlayerSettings
+  m_EditorClassIdentifier: 
+  masterVolume: 100
+  soundFXVolume: 100
+  bgMusicVolume: 100
+  playerBGMusic: {fileID: 8300000, guid: 5c537ca8ce7899e479888fab294962e8, type: 3}
+  defaultBGMusic: {fileID: 8300000, guid: 5c537ca8ce7899e479888fab294962e8, type: 3}
+  jump: 32
+  sprint: 304
+  crouch: 324
+  interact: 102
+  useItem: 323
+  itemSpecial: 113
+  useWorldCanvasUI: 1

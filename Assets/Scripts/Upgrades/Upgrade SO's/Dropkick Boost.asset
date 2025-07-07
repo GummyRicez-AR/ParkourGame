@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d535d07fd3557b64bb82b2fdca03e5d6, type: 3}
+  m_Name: Dropkick Boost
+  m_EditorClassIdentifier: 
+  ID: upgr_dropkickBoost
+  title: dropkick+
+  icon: {fileID: 21300000, guid: 5a65fde751fd6ac44bb003c1504dfb5f, type: 3}
+  iconDecal: {fileID: 2100000, guid: 574271670587e2b4faea1ce8a9ec85d3, type: 2}
+  statChanges: []
+  baseCost: 150
+  description: gain the ability to dropkick (slide while midair). further upgrades
+    to this boost the speed gained when dropkicking
+  ability: 2
+  abilityBoost: 5

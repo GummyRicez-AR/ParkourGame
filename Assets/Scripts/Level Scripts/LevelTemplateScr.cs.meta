@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0b3991384d38d7c49a4f2a18392bd8ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nextLevelSpawnPoint: {instanceID: 0}
+  - door: {instanceID: 0}
+  - keycardPrefab: {fileID: 8157636505390735906, guid: e5a20a2cdb2e91941a1c2ab50f342241, type: 3}
+  - tablePrefab: {fileID: 8420737163384709001, guid: 58cc2323ad054ae46bd191848341d5c8, type: 3}
+  - spawnCollider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

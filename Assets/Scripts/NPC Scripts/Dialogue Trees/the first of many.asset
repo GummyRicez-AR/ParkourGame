@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e2460be340558744905391896b8a8d1, type: 3}
+  m_Name: the first of many
+  m_EditorClassIdentifier: 
+  dialogues:
+  - speaker: {fileID: 11400000, guid: f7196704bcae5bf4d95027176e47e152, type: 2}
+    dialogue: hey kid
+    hasChoices: 0
+    dialogueChoices: []
+  - speaker: {fileID: 11400000, guid: f7196704bcae5bf4d95027176e47e152, type: 2}
+    dialogue: you want a weiner in your mouth
+    hasChoices: 1
+    dialogueChoices:
+    - playerChoice: yes
+      resultTree: {fileID: 11400000, guid: 5434855f1f09901459ec61801f5b44da, type: 2}
+    - playerChoice: no
+      resultTree: {fileID: 11400000, guid: 5434855f1f09901459ec61801f5b44da, type: 2}
