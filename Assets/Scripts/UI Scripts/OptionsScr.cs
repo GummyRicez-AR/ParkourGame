@@ -207,7 +207,6 @@ public class OptionsScr : MonoBehaviour
         {
             yield return WaitUntilKeyPressed();
 
-            audioSource.PlayOneShot(confirmSFX);
             KeyCode keyPressed = KeyCode.None;
             foreach (KeyCode k in System.Enum.GetValues(typeof(KeyCode)))
             {
@@ -278,6 +277,8 @@ public class OptionsScr : MonoBehaviour
                         button.GetComponentInChildren<TMP_Text>().text = settings.crouch.ToString();
                         break;
                 }
+
+                keybindConfirmed = true;
             }
 
             if (keybindConfirmed)
