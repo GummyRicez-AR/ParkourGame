@@ -25,6 +25,8 @@
     <type fullname="UpgradeData" preserve="all" />
     <type fullname="UpgradeInteractable" preserve="all" />
     <type fullname="UpgradeScr" preserve="all" />
+    <type fullname="WallDecals" preserve="all" />
+    <type fullname="WallScr" preserve="all" />
     <type fullname="Zipline" preserve="all" />
     <type fullname="ZiplineInteractable" preserve="all" />
     <type fullname="ZiplineWaypoints" preserve="all" />

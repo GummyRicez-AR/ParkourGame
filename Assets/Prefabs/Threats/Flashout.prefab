@@ -363,7 +363,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   humSource: {fileID: 3387729849215997052}
-  attackTime: 20
+  attackTime: 30
 --- !u!82 &3387729849215997052
 AudioSource:
   m_ObjectHideFlags: 0

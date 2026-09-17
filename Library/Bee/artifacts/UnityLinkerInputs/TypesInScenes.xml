@@ -63,6 +63,8 @@
 		<type fullname="UpgradeInteractable" preserve="nothing"/>
 		<type fullname="UpgradeMenuDesc" preserve="nothing"/>
 		<type fullname="UpgradeScr" preserve="nothing"/>
+		<type fullname="WallDecals" preserve="nothing"/>
+		<type fullname="WallScr" preserve="nothing"/>
 		<type fullname="Zipline" preserve="nothing"/>
 		<type fullname="ZiplineInteractable" preserve="nothing"/>
 		<type fullname="ZiplineWaypoints" preserve="nothing"/>

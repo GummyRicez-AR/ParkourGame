@@ -287,8 +287,8 @@ MonoBehaviour:
   safeRoom: {fileID: 1414808712186319175, guid: d2287224e7260144285aa3efdb540770, type: 3}
   currentFarthestLevel: {fileID: 0}
   backWall: {fileID: 6659148961080910732, guid: ad970595b2c6aba43934fee81aa102c7, type: 3}
-  intervalBetweenSafeRooms: 6
-  difficultyRateIncreasePerSecond: 0.012
+  intervalBetweenSafeRooms: 20
+  difficultyRateIncreasePerSecond: 0.011
   difficultyIncreaseOnSafeRoom: 0.25
   normalDifficultyThreshold: 3
   hardDifficultyThreshold: 8

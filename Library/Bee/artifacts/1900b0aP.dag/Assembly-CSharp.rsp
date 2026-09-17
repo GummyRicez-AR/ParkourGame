@@ -354,6 +354,8 @@
 "Assets/Scripts/DETAIL Scripts/CustomCursorScr.cs"
 "Assets/Scripts/DETAIL Scripts/PlayerCanvasScript.cs"
 "Assets/Scripts/DETAIL Scripts/SpeedLinesScr.cs"
+"Assets/Scripts/DETAIL Scripts/WallDecals.cs"
+"Assets/Scripts/DETAIL Scripts/WallScr.cs"
 "Assets/Scripts/Enemies/BaseEnemyScript.cs"
 "Assets/Scripts/Enemies/EnemyDifficulties.cs"
 "Assets/Scripts/Enemies/EnemyHitboxScript.cs"
